@@ -13,11 +13,12 @@
 ### Already has backend Auth and Profile flow, including:
 1. Registration
 2. Login
-3. Email validation
-4. Forgot/Reset password
-5. Logout
-6. Update profile name, email (with revalidation) and password
-7. Upload and delete avatar (S3)
+3. Sign-in/Sign-up with Google and Discord
+4. Email validation
+5. Forgot/Reset password
+6. Logout
+7. Update profile name, email (with revalidation) and password
+8. Upload and delete avatar (S3)
 
 
 ## Installation
