@@ -51,6 +51,10 @@
 7. Run migrations and seeders, install Passport:
    ```bash
    make fresh
+
+8. Install composer dependencies:
+   ```bash
+   make vendor
    
 
 ## Options
@@ -69,4 +73,4 @@
 
 4. Go to app container command line:
    ```bash
-   make test
+   make connect_app
