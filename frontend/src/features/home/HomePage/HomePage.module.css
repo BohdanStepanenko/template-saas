@@ -1,0 +1,11 @@
+.container {
+    background: var(--bg);
+    color: var(--text);
+    padding: 4rem 2rem;
+}
+
+@media (max-width: 768px) {
+    .container {
+        padding: 4rem 1rem;
+    }
+}

@@ -1,0 +1,27 @@
+.formGroup {
+    margin-bottom: 1.5rem;
+}
+
+.links {
+    margin-top: 1.5rem;
+    text-align: center;
+    font-size: 0.9rem;
+}
+
+.links a {
+    color: var(--accent);
+    text-decoration: none;
+    transition: opacity 0.3s ease;
+    display: block;
+    margin: 0.5rem 0;
+}
+
+.links a:hover {
+    opacity: 0.8;
+    text-decoration: underline;
+}
+
+.submitBtn {
+    width: 100%;
+    margin-top: 1rem;
+}
